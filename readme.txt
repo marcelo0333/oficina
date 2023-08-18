@@ -4,4 +4,4 @@ Este sistema foi feito utilizando Java Spring MVC, Banco de Dados relacional(Pos
 
 Tem como ideia a possibilidade de criar uma ordem de serviço que receba a maquina com defeito, o mecanico responsavel por ela, e tambem a criação de usuarios para o acesso a plataforma.
 
-Sistema simplificado criado para o trabalho de Orientação a Objetos para Web no 4* semestre de 2023.
+Sistema simplificado criado para o trabalho de Orientação a Objetos para Web no 4* semestre de 2023 do curso de Sistemas para Internet-UFSM.
